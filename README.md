@@ -6,7 +6,7 @@ Scores are tracked and displayed on a 16x2 I²C LCD in real time. Each round las
 
 ---
 ## Demo
-![Whack-A-Mole Demo](media/demo.gif)
+![Whack-A-Mole Demo](demo.gif)
 
 ## Features
 - Four LEDs (Red, Yellow, Green, Blue) paired with matching buttons  
