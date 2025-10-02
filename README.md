@@ -5,6 +5,8 @@ Random LEDs light up, and the player must hit the correct button before time run
 Scores are tracked and displayed on a 16x2 I²C LCD in real time. Each round lasts 30 seconds.
 
 ---
+## Demo
+![Whack-A-Mole Demo](media/demo.gif)
 
 ## Features
 - Four LEDs (Red, Yellow, Green, Blue) paired with matching buttons  
