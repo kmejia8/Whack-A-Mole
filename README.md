@@ -31,7 +31,3 @@ Scores are tracked and displayed on a 16x2 I²C LCD in real time. Each round las
 - `smbus` (for I²C LCD communication)  
 - `time`, `random` (Python standard libraries)  
 
-Install GPIO and I²C support (if not already installed):  
-```bash
-sudo apt-get update
-sudo apt-get install python3-rpi.gpio python3-smbus
