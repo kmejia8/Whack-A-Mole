@@ -18,7 +18,7 @@ Scores are tracked and displayed on a 16x2 I²C LCD in real time. Each round las
 ---
 
 ## Hardware Used
-- Raspberry Pi (tested with Pi 3/4)  
+- Raspberry Pi (tested with Raspberry Pi 4)
 - 4x LEDs (Red, Yellow, Green, Blue)  
 - 4x Push-buttons with pull-up configuration  
 - 16x2 I²C LCD display (PCF8574 backpack)  
